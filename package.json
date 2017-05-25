@@ -1,0 +1,15 @@
+{
+  "name": "boot",
+  "version": "1.0.0",
+  "description": "pcg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BootfoundationMay24"
+  },
+  "author": "ed",
+  "license": "ISC"
+}
